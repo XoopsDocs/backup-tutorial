@@ -14,7 +14,7 @@
 
 This module is to allow you to easily backup and/or restore your MySQL database
 
-![image001.png](assets/image001.png)
+![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the Backup Module (Admin side)*
 
 # Table of Content

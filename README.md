@@ -10,7 +10,7 @@
 
 ### User Manual
 
-© 2015 XOOPS Project \([www.xoops.org](https://xoops.org)\)
+© 2018 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
 
@@ -18,7 +18,7 @@ This module is to allow you to easily backup and/or restore your MySQL database
 
  _Figure 1: Main view of the Backup Module \(Admin side\)_
 
-![image001.png](.gitbook/assets/image001%20%281%29.jpg)
+![](.gitbook/assets/image001%20%281%29.jpg)
 
 ### Download/Fork the Module ![](https://xoops.org/images/forkit.png)
 
